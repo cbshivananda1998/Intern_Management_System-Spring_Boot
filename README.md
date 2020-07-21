@@ -1,4 +1,4 @@
-# Application developed in Spring Boot and Vaadin 
+# Web Application developed in Spring Boot and Vaadin 
 
 
 ## Used MySQL for database 
