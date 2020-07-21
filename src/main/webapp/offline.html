@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+    <title>Offline | Vaadin CRM</title>
+    <link rel="stylesheet" href="./styles/offline.css">
+</head>
+<body>
+
+<div class="content">
+    <h1>Sorry, you're offline</h1>
+    <p>Your internet connection is offline. Get back online to continue using Interns Management System.</p>
+</div>
+<script>
+  window.addEventListener('online', function () {
+    window.location.reload();
+  });
+
+</script>
+</body>
+</html>
+
