@@ -1,6 +1,6 @@
 # Web Application developed in Spring Boot and Vaadin
 
-The application is designed to keep records of interns.
+The application is designed to maintain records of interns.
 
 ## Used MySQL for database
 
@@ -12,6 +12,12 @@ Configure database in application.properties
 | -------- | :------- |
 | PASSWORD | password |
 
-<img src="/Users/c.b.shivananda/Documents/GitHub/Intern_Management_System-Spring_Boot/Assets/Screenshot 2020-09-27 at 2.44.28 PM.png" style="zoom:50%;" />
 
-<img src="/Users/c.b.shivananda/Documents/GitHub/Intern_Management_System-Spring_Boot/Assets/Screenshot 2020-09-27 at 2.44.21 PM.png" style="zoom:50%;" />
+
+![SS1](/Users/c.b.shivananda/Documents/GitHub/Intern_Management_System-Spring_Boot/README.assets/SS1-1230032.png)
+
+
+
+
+
+![SS2](/Users/c.b.shivananda/Documents/GitHub/Intern_Management_System-Spring_Boot/README.assets/SS2-1230043.png)
