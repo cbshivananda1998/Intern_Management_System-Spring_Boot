@@ -12,4 +12,6 @@ Configure database in application.properties
 | -------- | :------- |
 | PASSWORD | password |
 
-<img src="/Users/c.b.shivananda/Desktop/Screenshot 2020-09-27 at 2.44.28 PM.png" alt="Screenshot 2020-09-27 at 2.44.28 PM" style="zoom:50%;" /><img src="/Users/c.b.shivananda/Desktop/Screenshot 2020-09-27 at 2.44.21 PM.png" alt="Screenshot 2020-09-27 at 2.44.21 PM" style="zoom:50%;" />
+<img src="/Users/c.b.shivananda/Documents/GitHub/Intern_Management_System-Spring_Boot/Assets/Screenshot 2020-09-27 at 2.44.28 PM.png" style="zoom:50%;" />
+
+<img src="/Users/c.b.shivananda/Documents/GitHub/Intern_Management_System-Spring_Boot/Assets/Screenshot 2020-09-27 at 2.44.21 PM.png" style="zoom:50%;" />
