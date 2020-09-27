@@ -14,10 +14,10 @@ Configure database in application.properties
 
 
 
-![SS1](/Users/c.b.shivananda/Documents/GitHub/Intern_Management_System-Spring_Boot/README.assets/SS1-1230032.png)
+![SS1](README.assets/SS1-1230032.png)
 
 
 
 
 
-![SS2](/Users/c.b.shivananda/Documents/GitHub/Intern_Management_System-Spring_Boot/README.assets/SS2-1230043.png)
+![SS2](README.assets/SS2-1230043.png)
