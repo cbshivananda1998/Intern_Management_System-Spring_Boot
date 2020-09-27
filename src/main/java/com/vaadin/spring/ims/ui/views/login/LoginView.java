@@ -24,8 +24,7 @@ public class LoginView extends VerticalLayout implements BeforeEnterObserver {
         login.setAction("login");
 
         add(
-                new H1("Interns Management System for TCSion"),
-                new H1("PROJECT - Develop docker container using docker compose for application development using Java stack"),
+                new H1("Interns Management System"),
                 login
         );
     }
