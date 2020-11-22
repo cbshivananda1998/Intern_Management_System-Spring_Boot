@@ -6,7 +6,7 @@ The application is designed to maintain records of interns.
 
 Configure database in application.properties
 
-## Default credentials for Login
+## Default credentials to Login
 
 | USERNAME | user     |
 | -------- | :------- |
